@@ -1,5 +1,7 @@
 # Similarity-Metrics-PCFGs
-*** Made for a school project. Worked locally, then uploaded to GitHub. This is why there are only 3 commits. ***
+*** Made for a school project. Done with partner. Worked locally, then uploaded to GitHub. This is why there are only 4 commits. ***
+
+Partner: Aiden Smith
 
 Similarity Metrics:
 - Used 3 different metrics to measure the similarity of words.
